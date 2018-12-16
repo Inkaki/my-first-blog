@@ -1,18 +1,4 @@
-h1 a{
-  color:#FCA205;
-  font-family: 'lobster';
-  /* font-stretch: condensed; */
-  /* font-weight: lighter; */
-  /* font-size:500px;
-}
-
-/* body {
-  padding-left: 15px;
-  margin-left: auto;
-  margin-right: auto;
-} */ */
-
-page-header {
+.page-header {
     background-color: #ff9400;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
